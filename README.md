@@ -1,6 +1,6 @@
 <p ><h1 align="center" style="color:#000; background: #fe921f;line-height: 90px;margin-top:40px" >Say My Name : NAJI IlYess</h1></p>
 <p align="center">  
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fphra&psig=AOvVaw1edu3FRNHbImrOZPQ1jYk7&ust=1674592236080000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCmkK3E3vwCFQAAAAAdAAAAABAE" style="margin-top: -16px;max-width: 100%;"><br>
+<img src="![image](https://user-images.githubusercontent.com/117984783/214143756-c1259031-cbbe-46cb-b9b1-8caaf99dfee9.png)" style="margin-top: -16px;max-width: 100%;"><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=21F901&center=true&width=500&vCenter=true&lines=Welcome+to+my+Github+Profile;I'm+ABDERRAZZAK+ECHAOUBI+(AIZEN);I'm+studying+Computer+Engineering+at+1337" alt="Typing SVG" />
 </p>
 
