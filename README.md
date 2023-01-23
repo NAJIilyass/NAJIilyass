@@ -1,11 +1,101 @@
-<h3 align="center">Étudiant ingénieur intéressé par le génie logiciel, le développement Web</h3>
-
-<h3 align="left">Contactez-moi :</h3>
-<p align="left">
-<a href=" https://linkedin.com/in/naji-ilyass/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/linked-in-alt.svg" alt="naji-ilyass/" height="30" width="40" /></a>
-<a href="https : //fb.com/najilyassoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Social/facebook.svg" alt="najilyassoo/" height="30" width="40" /></a>
-<a href="https://instagram.com/naji_ilyassoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="naji_ilyassoo" height="30" width="40" /></a>
+<p ><h1 align="center" style="color:#000; background: #fe921f;line-height: 90px;margin-top:40px" >Say My Name : NAJI IlYess</h1></p>
+<p align="center">  
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fphra&psig=AOvVaw1edu3FRNHbImrOZPQ1jYk7&ust=1674592236080000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCmkK3E3vwCFQAAAAAdAAAAABAE" style="margin-top: -16px;max-width: 100%;"><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=21F901&center=true&width=500&vCenter=true&lines=Welcome+to+my+Github+Profile;I'm+ABDERRAZZAK+ECHAOUBI+(AIZEN);I'm+studying+Computer+Engineering+at+1337" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Langues et Outils :</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href=" https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg " alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/ > </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" largeur ="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> < /a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www. mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt ="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https ://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle /oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel= "noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> </p>com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www. python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python " largeur="40" hauteur="40"/> </a> </p>com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www. python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python " largeur="40" hauteur="40"/> </a> </p>com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔗  Connect with me :
+ <div align="center">
+  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/echaoubiabdo)](https://twitter.com/echaoubiabdo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/echaoubi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:echaoubiabderrazzak@gmail.com)](mailto:echaoubiabderrazzak@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/eshaubi_/)](https://www.instagram.com/eshaubi_/)
+
+</div>
+
+## 💻  Technologies and Tools I use:
+
+
+ <div align="center">
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+ 
+ 
+ 
+ 
+  </div>
+  
+## My GitHub stats
+<div align="center" >
+<a  href="https://github.com/abdochaoubi">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdochaoubi&show_icons=true&theme=radical" style="    height: 180px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubi&layout=compact&theme=dracula" style="    height: 180px;">
+
+</a>
+ <br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+
+</div>
+
+
+
+
+
+
+##  42 Profile Badges
+
+ <div align="center">
+
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aechaoub)](https://github.com/aechaoub/badge42)
+ 
+[![aechaoub's 42 stats](https://badge42.vercel.app/api/v2/clajl4f5j00830fl5wsml5ttb/stats?cursusId=21&coalitionId=279)](https://github.com/JaeSeoKim/badge42)
+ 
+  <p align="left">
+   
+ 
+ LIBFT : [![aechaoub's 42 Libft Score](https://badge42.vercel.app/api/v2/clajl4f5j00830fl5wsml5ttb/project/2809848)](https://github.com/JaeSeoKim/badge42)
+ 
+  FT_PRINTF : [![aechaoub's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clajl4f5j00830fl5wsml5ttb/project/2831492)](https://github.com/JaeSeoKim/badge42)
+ 
+  GET_NEXT_LINE : [![aechaoub's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clajl4f5j00830fl5wsml5ttb/project/2838112)](https://github.com/JaeSeoKim/badge42)
+ 
+  BORN2BEROOT : [![aechaoub's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clajl4f5j00830fl5wsml5ttb/project/2875962)](https://github.com/JaeSeoKim/badge42)
+ 
+</p>
+ 
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=abdochaoubi)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+ </div>
+ <p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
