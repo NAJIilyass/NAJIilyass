@@ -4,6 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7732A&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;I'm+NAJI+IlYess;I'm+studying+Software+Engineering+at+INPT;Enjoy..." alt="Typing SVG" />
 </p>
 
+
+
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=najiilyass&style=for-the-badge&color=130F60" />
 <p>
@@ -58,8 +60,12 @@
 
 </div>
 
+<p align="center">  
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=27&duration=4700&pause=700&color=603EC2ED&background=B821270D&center=true&vCenter=true&multiline=true&width=450&height=60&lines=We+have+to+stop+optimizing+for+programmers+;and+start+optimizing+for+users" alt="Typing SVG" />
+</p>
 
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+
