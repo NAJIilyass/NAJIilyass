@@ -7,10 +7,11 @@
 
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=najiilyass&style=for-the-badge&color=130F60" />
+   Visitor count<br>
+   <img src="https://profile-counter.glitch.me/NAJIilyass/count.svg" />
 <p>
 
-## 🔗  Connect with me :
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> Connect with me :
  <div align="center">
   
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/najiilyassoo)](https://twitter.com/najiilyassoo)
