@@ -2,7 +2,7 @@
 <p align="center">  
 <img src="https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966"style="margin-top: -16px;max-width: 100%;"><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7732A&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;I'm+NAJI+IlYess;I'm+studying+Software+Engineering+at+INPT;Enjoy..." alt="Typing SVG" />
-</p>
+</p><br>
 
 
 
